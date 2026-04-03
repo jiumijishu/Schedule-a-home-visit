@@ -1,7 +1,0 @@
-{
-  "component": true,
-  "usingComponents": {
-    "product-window": "/components/ProductWindowNew",
-    "cart-window": "/components/CartWindow"
-  }
-}

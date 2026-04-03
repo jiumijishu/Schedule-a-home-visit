@@ -1,9 +1,0 @@
-{
-  "navigationBarTitleText": "商品分类",
-  "navigationStyle": "custom",
-  "usingComponents": {
-    "top-nav": "/components/top-nav/index",
-    "sort-criteria": "/pages/shop/GoodsClass/components/sortCriteria",
-    "goods-item": "/pages/shop/GoodsClass/components/goodsItem"
-  }
-}
